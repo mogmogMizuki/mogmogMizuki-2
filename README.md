@@ -107,12 +107,12 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 ### Example
 
 ```md
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 ```
 
 #### How it looks
 
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Image of Yaktocat" src=https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png>
 
 ### :keyboard: Activity: Adding an image
 
@@ -152,6 +152,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+<pre>
+$ git init
+ああああ
+</pre>
+
 
 ### :keyboard: Activity: Adding a code example
 
@@ -183,6 +188,11 @@ _Great job adding a code example to the file :partying_face:_
 - [x] This item is complete
 - [ ] This item is not complete
 ```
+```
+- これはコード例として見える？
+「`」@のshift押しで表示
+```
+
 
 #### How it looks
 
